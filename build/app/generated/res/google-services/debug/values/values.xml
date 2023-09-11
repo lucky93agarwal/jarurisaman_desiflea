@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">58215657803-pkb14m04fltur7k1ru38r4bbb6tdekpk.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://desiflea-2e833.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">58215657803</string>
+    <string name="google_api_key" translatable="false">AIzaSyAiFhpSexU8kpfq4AtSbDvl9fvx3zZNrAw</string>
+    <string name="google_app_id" translatable="false">1:58215657803:android:f6fffcab288dccf6ef38ce</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAiFhpSexU8kpfq4AtSbDvl9fvx3zZNrAw</string>
+    <string name="google_storage_bucket" translatable="false">desiflea-2e833.appspot.com</string>
+    <string name="project_id" translatable="false">desiflea-2e833</string>
+</resources>
